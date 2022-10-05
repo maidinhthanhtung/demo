@@ -1,0 +1,32 @@
+/* h1 {
+        color: green
+    } */
+
+/* #firstID {
+        color: green
+    } */
+
+.first-class {
+    color: green;
+    border: 1px solid red
+}
+
+#secondID {
+    color: blue;
+    font-size: 40;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.second-class {
+    color: red
+}
+
+#thirdID {
+    font-size: 20px;
+}
+
+.tung-image {
+    height: 200px;
+    width: 200px;
+}
